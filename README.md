@@ -3,6 +3,8 @@
 An embedded systems project simulating a Mars rover application using the iRobot Create 2 platform with modifications from the ECPE department at Iowa State. The vehicle can navigate a hazard-filled test field, communicate sensor data to a base station, and respond to real-time user commands through a UART-based interface.
 
 <img width="507" height="573" alt="Robot" src="https://github.com/user-attachments/assets/157fc709-d9f7-45ab-9892-d8ff8c258e89" />
+<img width="620" height="478" alt="Diagram" src="https://github.com/user-attachments/assets/f96f8b6f-df05-41a7-ac1e-a4c36dfcc6e5" />
+
 
 ## Project Overview
 - Autonomous navigation across a test field simulating Martian terrain
